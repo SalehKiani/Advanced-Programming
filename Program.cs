@@ -10,6 +10,7 @@ namespace HW1_SalehKiani_972164024
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
